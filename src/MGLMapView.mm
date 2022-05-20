@@ -684,9 +684,9 @@ public:
     _rotateEnabled = YES;
     _rotationThresholdWhileZooming = 3;
 
-    _doubleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(handleDoubleTapGesture:)];
+    /* _doubleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(handleDoubleTapGesture:)];
     _doubleTap.numberOfTapsRequired = 2;
-    [self addGestureRecognizer:_doubleTap];
+    [self addGestureRecognizer:_doubleTap]; */
 
     _twoFingerDrag = [[UIPanGestureRecognizer alloc] initWithTarget:self action:@selector(handleTwoFingerDragGesture:)];
     _twoFingerDrag.minimumNumberOfTouches = 2;
