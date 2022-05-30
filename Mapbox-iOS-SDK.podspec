@@ -15,7 +15,7 @@ Pod::Spec.new do |m|
   m.documentation_url = 'https://docs.mapbox.com/ios/maps/api/'
 
   m.source = {
-    :http => "/dynamic/",
+    :path => "/dynamic/",
     :flatten => true
   }
 
