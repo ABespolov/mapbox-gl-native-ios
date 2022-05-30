@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15c682bd-52db-460a-8954-287d1db98727" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/MGLMapView.mm" beforeDir="false" afterPath="$PROJECT_DIR$/src/MGLMapView.mm" afterDir="false" />
-    </list>
+    <list default="true" id="15c682bd-52db-460a-8954-287d1db98727" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +48,7 @@
       <updated>1653071270840</updated>
       <workItem from="1653071272026" duration="60000" />
       <workItem from="1653071341100" duration="347000" />
+      <workItem from="1653895697017" duration="146000" />
     </task>
     <servers />
   </component>
